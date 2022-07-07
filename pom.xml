@@ -159,7 +159,7 @@
     <properties>
         <lucene-version>8.10.1</lucene-version>
         <tika-version>2.1.0</tika-version>
-        <jetty-version>11.0.7</jetty-version>
+        <jetty-version>11.0.10</jetty-version>
         <http-version>4.5.13</http-version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
